@@ -13,3 +13,7 @@ This repository contains my C programming practice programs.
 - Arrays
 
 I am learning C programming and uploading my practice programs here.
+
+## Progress
+
+Currently learning C programming and GitHub.
